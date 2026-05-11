@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Noman%20Riaz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20AI%20Engineer&descSize=20&descAlignY=55&descColor=fff" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Full+Stack+%2B+AI+%2F+ML+Engineer+%F0%9F%9A%80;LLMs+%7C+RAG+%7C+Agents+%7C+FastAPI+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Intelligent+Production+Systems;Full+Stack+AI+Engineer+%7C+LLMs+%7C+RAG+%7C+Agents;FastAPI+%7C+React+%7C+Next.js+%7C+Python+%7C+TypeScript)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,26 +67,25 @@ Full Stack AI Engineer specializing in **production-grade AI systems** from fine
 
 ## Featured Projects
 
-### Crypto AI Trading System
-Full-stack algorithmic trading platform powered by ML price prediction
+### Metrix — Geospatial Citizen Intelligence Platform
+Interactive map-driven civic analytics module built for large-scale government and municipal deployments
 
-- **Stack:** Next.js, React, Django, FastAPI, PostgreSQL, Redis
-- **AI Models:** Temporal Fusion Transformer (TFT), Multi-task Learning
-- **Features:** Real-time price prediction, Algo execution engine, Referral system, Live charting, Market data microservice
+- **Stack:** React, TypeScript, Vite, Leaflet, Google Maps API, TanStack Table, DnD Kit, Turf.js, Flowbite
+- **Features:** Multi-layer interactive maps with WKT/GeoJSON support, citizen profile management with AI satisfaction scoring (GPT-powered 0-100 score), drag-and-drop data organization, geospatial analysis with Turf.js, virtualized data tables for high-volume citizen records, multi-language support
 
-### AI Automation and RAG Platform
-LLM-powered automation system with Retrieval-Augmented Generation
+### AI Trend Generation System
+End-to-end ML pipeline that discovers and names emerging trends from social media data using BERTopic
 
-- **Stack:** React, Python, FastAPI, LangChain, Vector DB
-- **Features:** Research paper Q&A, PDF-based RAG, Crypto market AI analyzer, Autonomous agent pipelines
+- **Stack:** Python, FastAPI, React, TypeScript, MongoDB, BERTopic, OpenAI API
+- **Features:** BERTopic NLP model for unsupervised topic extraction, three generation modes (Standard, Category-wise, Pre-trained Model), GPT-powered automatic trend naming, date-range and industry filtering, real-time generation progress monitoring
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nomanriaz786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomanriaz786&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nomanriaz786&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nomanriaz786&theme=tokyonight" height="165" />
 </div>
 
 <div align="center">

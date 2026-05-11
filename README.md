@@ -85,16 +85,16 @@ LLM-powered automation system with Retrieval-Augmented Generation
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nomanriaz786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomanriaz786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nomanriaz786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomanriaz786&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nomanriaz786&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" width="600" />
+  <img src="https://streak-stats.demolab.com?user=Nomanriaz786&theme=tokyonight&hide_border=true" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nomanriaz786&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nomanriaz786&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -103,7 +103,7 @@ LLM-powered automation system with Retrieval-Augmented Generation
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-riaz1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-riaz1/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnomanriaz599@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nomanriaz786)
 

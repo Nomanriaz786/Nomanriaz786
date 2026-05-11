@@ -16,7 +16,7 @@ Full Stack AI Engineer specializing in **production-grade AI systems** from fine
 - **Backend:** FastAPI, Django, Node.js, Python, async and high-throughput APIs
 - **Frontend:** React, Next.js, TailwindCSS, clean and performant UIs
 - **Infra:** Docker, AWS, PostgreSQL, Redis, production-ready pipelines
-- Currently building: **Crypto AI Trading System** + **Autonomous AI Agents**
+- Currently building: **Metrix** (civic geospatial platform) + **ABC Teknology** (AI shopping assistant)
 - Open to: Full Stack AI / ML Engineer roles and freelance AI projects
 
 ---
@@ -67,17 +67,25 @@ Full Stack AI Engineer specializing in **production-grade AI systems** from fine
 
 ## Featured Projects
 
-### Metrix — Geospatial Citizen Intelligence Platform
-Interactive map-driven civic analytics module built for large-scale government and municipal deployments
+### Metrix: Geospatial Intelligence Platform
+Municipal-scale civic platform with interactive multi-layer maps, electoral analytics, and urban intelligence for government deployments
 
-- **Stack:** React, TypeScript, Vite, Leaflet, Google Maps API, TanStack Table, DnD Kit, Turf.js, Flowbite
-- **Features:** Multi-layer interactive maps with WKT/GeoJSON support, citizen profile management with AI satisfaction scoring (GPT-powered 0-100 score), drag-and-drop data organization, geospatial analysis with Turf.js, virtualized data tables for high-volume citizen records, multi-language support
+- **Stack:** React, TypeScript, Vite, Leaflet, Google Maps API, Geoserver, TanStack Table, DnD Kit, Turf.js
+- **Map Layers:** Base maps (TomTom), State databases, Electoral layers, Water infrastructure, Urban planning, Statistics and demographics, Social development (SEDESOQ), Campaign and round tracking
+- **Features:** WKT/GeoJSON map rendering, point clustering, Google Street View integration, Geoman drawing tools, citizen and property popups, layer symbology management, sidebar layer filters, multi-language support, dark/light theme
 
 ### AI Trend Generation System
-End-to-end ML pipeline that discovers and names emerging trends from social media data using BERTopic
+End-to-end ML pipeline that extracts and names emerging trends from social media data using BERTopic topic modeling
 
 - **Stack:** Python, FastAPI, React, TypeScript, MongoDB, BERTopic, OpenAI API
-- **Features:** BERTopic NLP model for unsupervised topic extraction, three generation modes (Standard, Category-wise, Pre-trained Model), GPT-powered automatic trend naming, date-range and industry filtering, real-time generation progress monitoring
+- **Features:** Unsupervised topic extraction from raw posts, three generation modes (Standard, Category-wise, Pre-trained Model), GPT-powered automatic trend naming, date-range and industry filtering, real-time progress monitoring
+
+### ABC Teknology: AI Shopping Assistant Platform
+Full microservices platform for AI-powered product discovery with LLM chat, WhatsApp bot, and mobile app
+
+- **My Role:** Built and integrated the AI Agent service, WhatsApp bot, and web crawler as the AI Engineer
+- **Stack:** Python, FastAPI, PostgreSQL, Redis, OpenAI API, LangChain, React Native (Expo), Twilio, TypeScript
+- **Services:** LLM agent with SSE streaming chat, session persistence via PostgreSQL and Redis, Twilio WhatsApp webhook bot for product search, web crawler for vendor discovery and Talabat integration, JWT auth service, cross-platform Expo mobile app
 
 ---
 

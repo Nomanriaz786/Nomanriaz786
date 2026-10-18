@@ -21,6 +21,30 @@ Full Stack AI Engineer specializing in **production-grade AI systems** from fine
 
 ---
 
+## Web Scrapers I Build and Maintain (Apify Store)
+
+Ready-to-run scrapers you can use without code, export to JSON, CSV or Excel, or call from your app and AI agents through the Apify API and MCP. No logins needed unless stated.
+
+| Scraper | What you get |
+|---|---|
+| [YouTube Transcript Scraper](https://apify.com/muhammad_noman_riaz/youtube-video-transcript-super-scraper) | Timestamped transcripts of any YouTube video or Short, in any language, with auto-translation |
+| [YouTube Scraper](https://apify.com/muhammad_noman_riaz/youtube-super-scraper) | Videos from search, channels, Shorts and live streams with views, likes and dates |
+| [YouTube Comments Scraper](https://apify.com/muhammad_noman_riaz/youtube-comments-super-scraper) | Comments and replies from YouTube videos |
+| [YouTube Shorts Scraper](https://apify.com/muhammad_noman_riaz/youtube-shorts-super-scraper) | Shorts from any YouTube channel with views and likes |
+| [TikTok Video Scraper](https://apify.com/muhammad_noman_riaz/tiktok-videos-super-scraper) | TikTok video stats, hashtags, music and MP4 or cover downloads |
+| [Instagram Profile Scraper](https://apify.com/muhammad_noman_riaz/instagram-profile-super-scraper) | Followers, bio, links and latest posts of public Instagram profiles |
+| [Instagram Post Scraper](https://apify.com/muhammad_noman_riaz/instagram-post-super-scraper) | Captions, likes, comments and media of public Instagram posts |
+| [Instagram Reels Scraper](https://apify.com/muhammad_noman_riaz/instagram-reels-super-scraper) | Plays, likes, captions and video URLs of public Reels |
+| [Instagram Comments Scraper](https://apify.com/muhammad_noman_riaz/instagram-comments-super-scraper) | Comments from public Instagram posts and Reels |
+| [Instagram Hashtag Scraper](https://apify.com/muhammad_noman_riaz/instagram-hashtag-super-scraper) | Posts and Reels for any hashtag (uses your own Instagram cookies) |
+
+All scrapers: [apify.com/muhammad_noman_riaz](https://apify.com/muhammad_noman_riaz)
+
+Examples and code: [youtube-transcript-scraper](https://github.com/Nomanriaz786/youtube-transcript-scraper)
+
+
+---
+
 ## AI / ML Stack
 
 <div align="center">

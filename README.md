@@ -30,7 +30,6 @@ Ready-to-run scrapers you can use without code, export to JSON, CSV or Excel, or
 | [YouTube Transcript Scraper](https://apify.com/muhammad_noman_riaz/youtube-video-transcript-super-scraper) | Timestamped transcripts of any YouTube video or Short, in any language, with auto-translation |
 | [YouTube Scraper](https://apify.com/muhammad_noman_riaz/youtube-super-scraper) | Videos from search, channels, Shorts and live streams with views, likes and dates |
 | [YouTube Comments Scraper](https://apify.com/muhammad_noman_riaz/youtube-comments-super-scraper) | Comments and replies from YouTube videos |
-| [YouTube Shorts Scraper](https://apify.com/muhammad_noman_riaz/youtube-shorts-super-scraper) | Shorts from any YouTube channel with views and likes |
 | [TikTok Video Scraper](https://apify.com/muhammad_noman_riaz/tiktok-videos-super-scraper) | TikTok video stats, hashtags, music and MP4 or cover downloads |
 | [Instagram Profile Scraper](https://apify.com/muhammad_noman_riaz/instagram-profile-super-scraper) | Followers, bio, links and latest posts of public Instagram profiles |
 | [Instagram Post Scraper](https://apify.com/muhammad_noman_riaz/instagram-post-super-scraper) | Captions, likes, comments and media of public Instagram posts |
@@ -43,7 +42,7 @@ Ready-to-run scrapers you can use without code, export to JSON, CSV or Excel, or
 | [Bilibili Scraper](https://apify.com/muhammad_noman_riaz/bilibili-scraper) | Bilibili videos by URL, user or search with stats, tags, comments and danmaku |
 | [Weibo Scraper](https://apify.com/muhammad_noman_riaz/weibo-scraper) | Weibo hot search and public posts by keyword or account |
 
-All scrapers: [apify.com/muhammad_noman_riaz](https://apify.com/muhammad_noman_riaz)
+Browse the full catalog: [nomanriaz786.github.io/scrapers](https://nomanriaz786.github.io/scrapers/) · All scrapers on Apify: [apify.com/muhammad_noman_riaz](https://apify.com/muhammad_noman_riaz)
 
 Examples and code: [youtube-transcript-scraper](https://github.com/Nomanriaz786/youtube-transcript-scraper)
 

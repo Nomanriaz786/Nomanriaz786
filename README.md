@@ -37,6 +37,11 @@ Ready-to-run scrapers you can use without code, export to JSON, CSV or Excel, or
 | [Instagram Reels Scraper](https://apify.com/muhammad_noman_riaz/instagram-reels-super-scraper) | Plays, likes, captions and video URLs of public Reels |
 | [Instagram Comments Scraper](https://apify.com/muhammad_noman_riaz/instagram-comments-super-scraper) | Comments from public Instagram posts and Reels |
 | [Instagram Hashtag Scraper](https://apify.com/muhammad_noman_riaz/instagram-hashtag-super-scraper) | Posts and Reels for any hashtag (uses your own Instagram cookies) |
+| [AliExpress Scraper](https://apify.com/muhammad_noman_riaz/aliexpress-scraper) | AliExpress search results with prices, discounts, ratings, orders and buyer reviews |
+| [China Supplier Scraper](https://apify.com/muhammad_noman_riaz/china-supplier-scraper) | Wholesale products and suppliers from Made-in-China, Yiwugo and Global Sources with MOQ |
+| [Google Trends Scraper](https://apify.com/muhammad_noman_riaz/google-trends-scraper) | Interest over time, interest by region, related queries and trending searches |
+| [Bilibili Scraper](https://apify.com/muhammad_noman_riaz/bilibili-scraper) | Bilibili videos by URL, user or search with stats, tags, comments and danmaku |
+| [Weibo Scraper](https://apify.com/muhammad_noman_riaz/weibo-scraper) | Weibo hot search and public posts by keyword or account |
 
 All scrapers: [apify.com/muhammad_noman_riaz](https://apify.com/muhammad_noman_riaz)
 

@@ -42,6 +42,11 @@ Ready-to-run scrapers you can use without code, export to JSON, CSV or Excel, or
 | [Google Trends Scraper](https://apify.com/muhammad_noman_riaz/google-trends-scraper) | Interest over time, interest by region, related queries and trending searches |
 | [Bilibili Scraper](https://apify.com/muhammad_noman_riaz/bilibili-scraper) | Bilibili videos by URL, user or search with stats, tags, comments and danmaku |
 | [Weibo Scraper](https://apify.com/muhammad_noman_riaz/weibo-scraper) | Weibo hot search and public posts by keyword or account |
+| [LinkedIn Jobs Scraper](https://apify.com/muhammad_noman_riaz/linkedin-jobs-scraper) | LinkedIn job listings by keyword and location with full description, seniority, salary and applicants, no login |
+| [YouTube Channel Contact Scraper](https://apify.com/muhammad_noman_riaz/youtube-channel-contact-scraper) | Public business emails, websites and social links of YouTube creators, pay only for channels with an email |
+| [YouTube Channel Scraper](https://apify.com/muhammad_noman_riaz/youtube-channel-scraper) | Channel subscribers, video and view counts, country, join date, links and latest videos |
+| [YouTube Search Scraper](https://apify.com/muhammad_noman_riaz/youtube-search-scraper) | YouTube search results with rank, views, duration and filters, paginated |
+| [Facebook Ad Library Scraper](https://apify.com/muhammad_noman_riaz/facebook-ad-library-scraper) | Meta Ad Library ads by keyword or page with creatives, landing pages, run dates and platforms |
 
 Browse the full catalog: [nomanriaz786.github.io/scrapers](https://nomanriaz786.github.io/scrapers/) · All scrapers on Apify: [apify.com/muhammad_noman_riaz](https://apify.com/muhammad_noman_riaz)
 

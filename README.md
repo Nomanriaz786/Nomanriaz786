@@ -47,6 +47,9 @@ Ready-to-run scrapers you can use without code, export to JSON, CSV or Excel, or
 | [YouTube Channel Scraper](https://apify.com/muhammad_noman_riaz/youtube-channel-scraper) | Channel subscribers, video and view counts, country, join date, links and latest videos |
 | [YouTube Search Scraper](https://apify.com/muhammad_noman_riaz/youtube-search-scraper) | YouTube search results with rank, views, duration and filters, paginated |
 | [Facebook Ad Library Scraper](https://apify.com/muhammad_noman_riaz/facebook-ad-library-scraper) | Meta Ad Library ads by keyword or page with creatives, landing pages, run dates and platforms |
+| [AliExpress Product Details Scraper](https://apify.com/muhammad_noman_riaz/aliexpress-product-scraper) | Full AliExpress product details from URLs: every variant with price and stock, specifications, store and reviews |
+| [LinkedIn Ad Library Scraper](https://apify.com/muhammad_noman_riaz/linkedin-ad-library-scraper) | LinkedIn ads by advertiser, keyword or country with run dates, impressions and targeting |
+| [Pinterest Scraper](https://apify.com/muhammad_noman_riaz/pinterest-scraper) | Pinterest pins by keyword, board or profile with images, videos, links, saves and creator stats |
 
 Browse the full catalog: [nomanriaz786.github.io/scrapers](https://nomanriaz786.github.io/scrapers/) · All scrapers on Apify: [apify.com/muhammad_noman_riaz](https://apify.com/muhammad_noman_riaz)
 
